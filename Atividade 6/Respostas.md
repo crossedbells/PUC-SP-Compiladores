@@ -5,7 +5,7 @@
 **3:**
 
 &#x09;
-- Creio que devido a atualizações do modelo, a palavra position não é mais dividida (evidência em fotos).
+- Creio que devido a atualizações do modelo, a palavra position não é mais dividida ao menos que seja digitada em português e no modelo gpt3 (evidência em fotos).
 
 - Os tokens léxicos possuem uma categoria lógica e regras de linguagem que precisam seguir (como ser ID|OP|NUM|etc) enquanto os tokens de LLM seguem uma frequência estatística, onde estes são fragmentados de textos sem uma categoria lógica fixa, sendo seu foco a compreensão de dados e previsão probabilística.
 
