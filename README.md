@@ -1,9 +1,9 @@
 # Entrega Final do - Compiladores (PUC-SP)
 
 - **Faculdade:** PUC-SP
-- **Curso:** [Ciência da Computação]
+- **Curso:** Ciência da Computação
 - **Disciplina:** Compiladores
-- **Equipe:** [Gabriel Mechi Lima] e [Nícolas Okamoto Celestrino]
+- **Equipe:** Gabriel Mechi Lima e Nícolas Okamoto Celestrino
 ---
 
 ## Atividades Realizadas
