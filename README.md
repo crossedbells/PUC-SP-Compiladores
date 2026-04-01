@@ -103,11 +103,6 @@ print(tokens[:200])  #imprime os tokens gerados (apenas os primeiros 200 para n�
 
 ## Parágrado de cada aluno
 
-### Aluno 1
-> [Parágrafo do primeiro aluno sobre o que há de interessante no analisador léxico (scanner), autômato finito, gramática regular]
-
-### Aluno 2
-> [Parágrafo do segundo aluno sobre o que há de interessante no analisador léxico (scanner), autômato finito, gramática regular]
 
 ---
 
