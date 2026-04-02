@@ -37,6 +37,9 @@
 
 ### Atividade 4 - Expressões Regulares em Python e Java
 **Estrutura:**
+![Python_Collab](./Atividade%204/Printscreen%20Python%20Colab/Saída_Desafio_Final.png)
+![Python_Collab_Saida](./Atividade%204/Printscreen%20Python%20Colab/Saída_Tokenize.png)
+![RegExp_Java](./Atividade%204/RegExp%20no%20Java/Teste%20JUnit.png)
 
 - Arquivo: `RegExp Python Colabs.MD`
 
