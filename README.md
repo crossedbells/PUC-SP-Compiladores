@@ -37,8 +37,7 @@
 
 ### Atividade 4 - Expressões Regulares em Python e Java
 **Estrutura:**
-- Printscreen Python Colab
-- RegExp no Java
+
 - Arquivo: `RegExp Python Colabs.MD`
 
 ---
